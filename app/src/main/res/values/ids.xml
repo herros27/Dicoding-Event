@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="tv_event_name" type="id" />
+    <item name="tv_organizer" type="id" />
+    <item name="tv_event_time" type="id" />
+    <item name="tv_remaining_quota" type="id" />
+</resources>

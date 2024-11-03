@@ -1,0 +1,24 @@
+<resources>
+
+    <string name="app_name">Dicoding Event</string>
+    <string name="title_home">Home</string>
+    <string name="title_upcoming">Upcoming</string>
+    <string name="title_finished">Finished</string>
+    <string name="upcoming_events">Upcoming Events</string>
+    <string name="finished_events">Finished Events</string>
+    <string name="nama">Nama Event</string>
+    <string name="desc">desc</string>
+    <string name="dicoding_event">Dicoding Event</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="no_internet">No Internet</string>
+    <string name="event_image">Event Image</string>
+    <string name="open_event_link">Open Event Link</string>
+    <string name="todo">TODO</string>
+    <string name="todo1">TODO</string>
+    <string name="more">More…</string>
+    <string name="search">Search Something in here …</string>
+    <string name="favorite">Favorite</string>
+    <string name="setting">Setting</string>
+
+
+</resources>

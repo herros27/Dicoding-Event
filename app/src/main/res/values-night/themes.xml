@@ -1,0 +1,48 @@
+<resources>
+
+    <style name="TextTitle">
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:textColor">@color/white</item>
+        <item name="android:textSize">20sp</item>
+        <item name="fontFamily">@font/righteous</item>
+    </style>
+
+    <style name="TextSubTitle">
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:textColor">@color/white</item>
+        <item name="android:textSize">18sp</item>
+        <item name="android:textStyle">bold</item>
+        <item name="fontFamily">@font/poppins</item>
+    </style>
+
+    <style name="TextDetail">
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:textColor">@color/white</item>
+        <item name="android:textSize">16sp</item>
+        <item name="fontFamily">@font/poppins</item>
+    </style>
+
+    <style name="TextSubDetail">
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:textColor">@color/white</item>
+        <item name="android:textSize">14sp</item>
+        <item name="fontFamily">@font/poppins</item>
+    </style>
+
+
+    <color name="md_theme_primary">#C9CB77</color>
+    <color name="md_theme_onPrimary">#484A00</color>
+    <color name="md_theme_primaryContainer">#606219</color>
+    <color name="md_theme_secondary">#C9C8A5</color>
+    <color name="md_theme_onSecondary">#48482D</color>
+    <color name="md_theme_secondaryContainer">#606043</color>
+    <color name="md_theme_background">#1C1C14</color>
+    <color name="md_theme_surface">#1C1C14</color>
+    <color name="md_theme_onSurface">#E5E2D3</color>
+    <color name="md_theme_inversePrimary">#606219</color>
+</resources>
+
